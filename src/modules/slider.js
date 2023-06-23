@@ -89,8 +89,6 @@ const slider = () => {
 
     startSlide();
 
-    console.log(sliderBlock);
-    console.log(slides);
 };
 
 module.exports = slider;
