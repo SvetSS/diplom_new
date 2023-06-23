@@ -1,5 +1,4 @@
 const sendForm = () => {
-    console.log('я sendForm');
     const form = document.getElementById('formId');
 
     const formName = form.querySelector('input[name="fio"]');

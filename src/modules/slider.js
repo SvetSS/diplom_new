@@ -2,7 +2,7 @@ const slider = () => {
     const sliderBlock = document.querySelector('.top-slider');
     const slides = sliderBlock.querySelectorAll('.item ');
     const tables = sliderBlock.querySelectorAll('.table ');
-    console.log(sliderBlock);
+
     let dotsList = document.createElement("ul");
 
     let currentSlide = 0;
